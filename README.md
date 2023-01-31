@@ -1,4 +1,4 @@
-# still_alive
+# still_alive.py
 
 Do you have a huge SOCKS 4/5 proxy list but no way of checking if any of them work?!
 
