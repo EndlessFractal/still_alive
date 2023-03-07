@@ -24,9 +24,11 @@ still_alive.py has got you covered! It features:
 
 `git clone https://github.com/NotoriusNeo/still_alive`
 
+`cd still_alive`
+
 `pip install tqdm`
 
-`python3.11 still_alive.py [-h] -i INPUT_FILE -o OUTPUT_FILE [-t TIMEOUT]`
+`python3 still_alive.py [-h] -i INPUT_FILE -o OUTPUT_FILE [-t TIMEOUT]`
 
 Other Python versions may work, but was built with 3.11 in mind!
 
