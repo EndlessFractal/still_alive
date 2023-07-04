@@ -22,7 +22,7 @@ still_alive.py has got you covered! It features:
 
 # Install
 
-`git clone https://github.com/NotoriusNeo/still_alive`
+`git clone https://github.com/EndlessFractal/still_alive`
 
 `cd still_alive`
 
